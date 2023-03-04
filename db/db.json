@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ucup",
+      "email": "ucup@mail.com",
+      "password": "123123"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Wakanda Forev",
+      "description": "This is a description",
+      "duration": 2,
+      "artists": [
+        "John Cena",
+        "Thomas Shelby"
+      ],
+      "genres": [
+        "Horror",
+        "Action"
+      ],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaavh8f4VsmQ2ELQu-_Z6hrrOfxdxYxqXTg&usqp=CAU",
+      "id": 1
+    },
+    {
+      "title": "Naruto",
+      "description": "Film Ninja",
+      "duration": 2,
+      "artists": [],
+      "genres": [],
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZNLU4StRzVyGyBJSZXablaAvTNHBZ8Y93A&usqp=CAU",
+      "id": 3
+    }
+  ]
+}
